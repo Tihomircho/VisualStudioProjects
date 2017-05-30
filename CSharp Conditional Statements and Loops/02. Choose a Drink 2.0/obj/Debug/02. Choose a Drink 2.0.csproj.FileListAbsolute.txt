@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\02. Choose a Drink 2.0\bin\Debug\_02.Choose_a_Drink_2._0.exe.config
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\02. Choose a Drink 2.0\bin\Debug\_02.Choose_a_Drink_2._0.exe
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\02. Choose a Drink 2.0\bin\Debug\_02.Choose_a_Drink_2._0.pdb
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\02. Choose a Drink 2.0\obj\Debug\_02.Choose_a_Drink_2._0.exe
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\02. Choose a Drink 2.0\obj\Debug\_02.Choose_a_Drink_2._0.pdb
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\02. Choose a Drink 2.0\obj\Debug\02. Choose a Drink 2.0.csprojResolveAssemblyReference.cache

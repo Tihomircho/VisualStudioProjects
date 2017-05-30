@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe.config
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.pdb
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.exe
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.pdb

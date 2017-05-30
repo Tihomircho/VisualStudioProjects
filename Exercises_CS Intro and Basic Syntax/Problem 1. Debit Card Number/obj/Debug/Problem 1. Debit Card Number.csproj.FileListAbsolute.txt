@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe.config
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.pdb
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\Problem 1. Debit Card Number\obj\Debug\Problem 1. Debit Card Number.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.exe
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.pdb

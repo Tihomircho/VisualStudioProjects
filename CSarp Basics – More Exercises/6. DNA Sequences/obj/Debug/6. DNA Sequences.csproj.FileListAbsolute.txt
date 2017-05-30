@@ -1,0 +1,5 @@
+G:\VisualStudioProjects\CSarp Basics – More Exercises\6. DNA Sequences\bin\Debug\_6.DNA_Sequences.exe.config
+G:\VisualStudioProjects\CSarp Basics – More Exercises\6. DNA Sequences\bin\Debug\_6.DNA_Sequences.exe
+G:\VisualStudioProjects\CSarp Basics – More Exercises\6. DNA Sequences\bin\Debug\_6.DNA_Sequences.pdb
+G:\VisualStudioProjects\CSarp Basics – More Exercises\6. DNA Sequences\obj\Debug\_6.DNA_Sequences.exe
+G:\VisualStudioProjects\CSarp Basics – More Exercises\6. DNA Sequences\obj\Debug\_6.DNA_Sequences.pdb

@@ -1,0 +1,5 @@
+G:\VisualStudioProjects\CSarp Basics – More Exercises\02. Vapor Store\bin\Debug\_02.Vapor_Store.exe.config
+G:\VisualStudioProjects\CSarp Basics – More Exercises\02. Vapor Store\bin\Debug\_02.Vapor_Store.exe
+G:\VisualStudioProjects\CSarp Basics – More Exercises\02. Vapor Store\bin\Debug\_02.Vapor_Store.pdb
+G:\VisualStudioProjects\CSarp Basics – More Exercises\02. Vapor Store\obj\Debug\_02.Vapor_Store.exe
+G:\VisualStudioProjects\CSarp Basics – More Exercises\02. Vapor Store\obj\Debug\_02.Vapor_Store.pdb

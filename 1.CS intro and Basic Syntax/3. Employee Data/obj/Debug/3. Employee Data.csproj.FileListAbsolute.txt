@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\1.CS intro and Basic Syntax\3. Employee Data\obj\Debug\3. Employee Data.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\1.CS intro and Basic Syntax\3. Employee Data\bin\Debug\_3.Employee_Data.exe.config
+G:\VisualStudioProjects\1.CS intro and Basic Syntax\3. Employee Data\bin\Debug\_3.Employee_Data.exe
+G:\VisualStudioProjects\1.CS intro and Basic Syntax\3. Employee Data\bin\Debug\_3.Employee_Data.pdb
+G:\VisualStudioProjects\1.CS intro and Basic Syntax\3. Employee Data\obj\Debug\_3.Employee_Data.exe
+G:\VisualStudioProjects\1.CS intro and Basic Syntax\3. Employee Data\obj\Debug\_3.Employee_Data.pdb

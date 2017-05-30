@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\1.CS intro and Basic Syntax\2. Add Two Numbers\bin\Debug\_2.Add_Two_Numbers.exe.config
+G:\VisualStudioProjects\1.CS intro and Basic Syntax\2. Add Two Numbers\bin\Debug\_2.Add_Two_Numbers.exe
+G:\VisualStudioProjects\1.CS intro and Basic Syntax\2. Add Two Numbers\bin\Debug\_2.Add_Two_Numbers.pdb
+G:\VisualStudioProjects\1.CS intro and Basic Syntax\2. Add Two Numbers\obj\Debug\_2.Add_Two_Numbers.exe
+G:\VisualStudioProjects\1.CS intro and Basic Syntax\2. Add Two Numbers\obj\Debug\_2.Add_Two_Numbers.pdb
+G:\VisualStudioProjects\1.CS intro and Basic Syntax\2. Add Two Numbers\obj\Debug\2. Add Two Numbers.csprojResolveAssemblyReference.cache

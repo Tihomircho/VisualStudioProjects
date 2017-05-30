@@ -1,0 +1,12 @@
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\05.Character Stats\obj\Debug\05.Character Stats.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\05.Character Stats\bin\Debug\05.Character Stats.exe.config
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\05.Character Stats\bin\Debug\05.Character Stats.exe
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\05.Character Stats\bin\Debug\05.Character Stats.pdb
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\05.Character Stats\obj\Debug\05.Character Stats.exe
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\05.Character Stats\obj\Debug\05.Character Stats.pdb
+G:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\05.Character Stats\bin\Debug\05.Character Stats.exe.config
+G:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\05.Character Stats\bin\Debug\05.Character Stats.exe
+G:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\05.Character Stats\bin\Debug\05.Character Stats.pdb
+G:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\05.Character Stats\obj\Debug\05.Character Stats.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\05.Character Stats\obj\Debug\05.Character Stats.exe
+G:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\05.Character Stats\obj\Debug\05.Character Stats.pdb

@@ -1,0 +1,5 @@
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\8. Calories Counter\bin\Debug\_8.Calories_Counter.exe.config
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\8. Calories Counter\bin\Debug\_8.Calories_Counter.exe
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\8. Calories Counter\bin\Debug\_8.Calories_Counter.pdb
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\8. Calories Counter\obj\Debug\_8.Calories_Counter.exe
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\8. Calories Counter\obj\Debug\_8.Calories_Counter.pdb

@@ -1,0 +1,5 @@
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\Demo resturant\bin\Debug\Demo resturant.exe.config
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\Demo resturant\bin\Debug\Demo resturant.exe
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\Demo resturant\bin\Debug\Demo resturant.pdb
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\Demo resturant\obj\Debug\Demo resturant.exe
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\Demo resturant\obj\Debug\Demo resturant.pdb

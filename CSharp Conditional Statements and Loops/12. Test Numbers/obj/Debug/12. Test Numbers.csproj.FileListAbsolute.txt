@@ -1,0 +1,5 @@
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe.config
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\12. Test Numbers\bin\Debug\_12.Test_Numbers.pdb
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\12. Test Numbers\obj\Debug\_12.Test_Numbers.exe
+G:\VisualStudioProjects\CSharp Conditional Statements and Loops\12. Test Numbers\obj\Debug\_12.Test_Numbers.pdb

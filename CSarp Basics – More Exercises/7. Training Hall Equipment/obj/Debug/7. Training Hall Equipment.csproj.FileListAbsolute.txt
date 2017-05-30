@@ -1,0 +1,5 @@
+G:\VisualStudioProjects\CSarp Basics – More Exercises\7. Training Hall Equipment\bin\Debug\_7.Training_Hall_Equipment.exe.config
+G:\VisualStudioProjects\CSarp Basics – More Exercises\7. Training Hall Equipment\bin\Debug\_7.Training_Hall_Equipment.exe
+G:\VisualStudioProjects\CSarp Basics – More Exercises\7. Training Hall Equipment\bin\Debug\_7.Training_Hall_Equipment.pdb
+G:\VisualStudioProjects\CSarp Basics – More Exercises\7. Training Hall Equipment\obj\Debug\_7.Training_Hall_Equipment.exe
+G:\VisualStudioProjects\CSarp Basics – More Exercises\7. Training Hall Equipment\obj\Debug\_7.Training_Hall_Equipment.pdb

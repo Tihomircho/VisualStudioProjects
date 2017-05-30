@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\Traning\Traning\bin\Debug\Traning.exe.config
+G:\VisualStudioProjects\Traning\Traning\bin\Debug\Traning.exe
+G:\VisualStudioProjects\Traning\Traning\bin\Debug\Traning.pdb
+G:\VisualStudioProjects\Traning\Traning\obj\Debug\Traning.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\Traning\Traning\obj\Debug\Traning.exe
+G:\VisualStudioProjects\Traning\Traning\obj\Debug\Traning.pdb

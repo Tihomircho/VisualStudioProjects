@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe.config
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.pdb
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.exe
+D:\VisualStudioProjects\Exercises_CS Intro and Basic Syntax\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.pdb

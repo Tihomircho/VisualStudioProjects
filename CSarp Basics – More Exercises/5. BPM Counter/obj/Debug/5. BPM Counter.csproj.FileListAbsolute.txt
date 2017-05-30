@@ -1,0 +1,5 @@
+G:\VisualStudioProjects\CSarp Basics – More Exercises\5. BPM Counter\bin\Debug\_5.BPM_Counter.exe.config
+G:\VisualStudioProjects\CSarp Basics – More Exercises\5. BPM Counter\bin\Debug\_5.BPM_Counter.exe
+G:\VisualStudioProjects\CSarp Basics – More Exercises\5. BPM Counter\bin\Debug\_5.BPM_Counter.pdb
+G:\VisualStudioProjects\CSarp Basics – More Exercises\5. BPM Counter\obj\Debug\_5.BPM_Counter.exe
+G:\VisualStudioProjects\CSarp Basics – More Exercises\5. BPM Counter\obj\Debug\_5.BPM_Counter.pdb

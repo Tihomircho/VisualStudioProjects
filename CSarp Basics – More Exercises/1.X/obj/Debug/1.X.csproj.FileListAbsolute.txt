@@ -1,0 +1,5 @@
+G:\VisualStudioProjects\CSarp Basics – More Exercises\1.X\bin\Debug\1.X.exe.config
+G:\VisualStudioProjects\CSarp Basics – More Exercises\1.X\bin\Debug\1.X.exe
+G:\VisualStudioProjects\CSarp Basics – More Exercises\1.X\bin\Debug\1.X.pdb
+G:\VisualStudioProjects\CSarp Basics – More Exercises\1.X\obj\Debug\1.X.exe
+G:\VisualStudioProjects\CSarp Basics – More Exercises\1.X\obj\Debug\1.X.pdb
