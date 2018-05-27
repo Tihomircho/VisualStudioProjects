@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\Data Types and Variables - Exercises\18.Different Integers Size\bin\Debug\18.Different Integers Size.exe.config
+G:\VisualStudioProjects\Data Types and Variables - Exercises\18.Different Integers Size\bin\Debug\18.Different Integers Size.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\18.Different Integers Size\bin\Debug\18.Different Integers Size.pdb
+G:\VisualStudioProjects\Data Types and Variables - Exercises\18.Different Integers Size\obj\Debug\18.Different Integers Size.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\Data Types and Variables - Exercises\18.Different Integers Size\obj\Debug\18.Different Integers Size.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\18.Different Integers Size\obj\Debug\18.Different Integers Size.pdb

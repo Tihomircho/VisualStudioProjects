@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\04.Draw a Filled Square\obj\Debug\04.Draw a Filled Square.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\04.Draw a Filled Square\bin\Debug\04.Draw a Filled Square.exe.config
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\04.Draw a Filled Square\bin\Debug\04.Draw a Filled Square.exe
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\04.Draw a Filled Square\bin\Debug\04.Draw a Filled Square.pdb
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\04.Draw a Filled Square\obj\Debug\04.Draw a Filled Square.exe
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\04.Draw a Filled Square\obj\Debug\04.Draw a Filled Square.pdb

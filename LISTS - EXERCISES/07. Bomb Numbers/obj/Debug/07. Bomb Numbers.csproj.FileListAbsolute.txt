@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\LISTS - EXERCISES\07. Bomb Numbers\bin\Debug\_07.Bomb_Numbers.exe.config
+D:\VisualStudioProjects\LISTS - EXERCISES\07. Bomb Numbers\bin\Debug\_07.Bomb_Numbers.exe
+D:\VisualStudioProjects\LISTS - EXERCISES\07. Bomb Numbers\bin\Debug\_07.Bomb_Numbers.pdb
+D:\VisualStudioProjects\LISTS - EXERCISES\07. Bomb Numbers\obj\Debug\_07.Bomb_Numbers.exe
+D:\VisualStudioProjects\LISTS - EXERCISES\07. Bomb Numbers\obj\Debug\_07.Bomb_Numbers.pdb

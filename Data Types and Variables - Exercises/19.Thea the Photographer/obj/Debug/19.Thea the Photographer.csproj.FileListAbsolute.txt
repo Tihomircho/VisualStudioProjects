@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\Data Types and Variables - Exercises\19.Thea the Photographer\bin\Debug\19.Thea the Photographer.exe.config
+D:\VisualStudioProjects\Data Types and Variables - Exercises\19.Thea the Photographer\bin\Debug\19.Thea the Photographer.exe
+D:\VisualStudioProjects\Data Types and Variables - Exercises\19.Thea the Photographer\bin\Debug\19.Thea the Photographer.pdb
+D:\VisualStudioProjects\Data Types and Variables - Exercises\19.Thea the Photographer\obj\Debug\19.Thea the Photographer.exe
+D:\VisualStudioProjects\Data Types and Variables - Exercises\19.Thea the Photographer\obj\Debug\19.Thea the Photographer.pdb
+G:\VisualStudioProjects\Data Types and Variables - Exercises\19.Thea the Photographer\bin\Debug\19.Thea the Photographer.exe.config
+G:\VisualStudioProjects\Data Types and Variables - Exercises\19.Thea the Photographer\bin\Debug\19.Thea the Photographer.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\19.Thea the Photographer\bin\Debug\19.Thea the Photographer.pdb
+G:\VisualStudioProjects\Data Types and Variables - Exercises\19.Thea the Photographer\obj\Debug\19.Thea the Photographer.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\Data Types and Variables - Exercises\19.Thea the Photographer\obj\Debug\19.Thea the Photographer.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\19.Thea the Photographer\obj\Debug\19.Thea the Photographer.pdb

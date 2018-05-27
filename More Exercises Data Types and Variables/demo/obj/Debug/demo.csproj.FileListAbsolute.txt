@@ -1,0 +1,6 @@
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\demo\bin\Debug\demo.exe.config
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\demo\bin\Debug\demo.exe
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\demo\bin\Debug\demo.pdb
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\demo\obj\Debug\demo.exe
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\demo\obj\Debug\demo.pdb

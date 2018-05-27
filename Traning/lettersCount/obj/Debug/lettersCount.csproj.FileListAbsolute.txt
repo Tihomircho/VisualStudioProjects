@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Traning\lettersCount\bin\Debug\lettersCount.exe.config
+D:\VisualStudioProjects\Traning\lettersCount\bin\Debug\lettersCount.exe
+D:\VisualStudioProjects\Traning\lettersCount\bin\Debug\lettersCount.pdb
+D:\VisualStudioProjects\Traning\lettersCount\obj\Debug\lettersCount.exe
+D:\VisualStudioProjects\Traning\lettersCount\obj\Debug\lettersCount.pdb

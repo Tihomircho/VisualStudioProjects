@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\04.English Name of Last Digit (2)\bin\Debug\04.English Name of Last Digit (2).exe.config
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\04.English Name of Last Digit (2)\bin\Debug\04.English Name of Last Digit (2).exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\04.English Name of Last Digit (2)\bin\Debug\04.English Name of Last Digit (2).pdb
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\04.English Name of Last Digit (2)\obj\Debug\04.English Name of Last Digit (2).exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\04.English Name of Last Digit (2)\obj\Debug\04.English Name of Last Digit (2).pdb

@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\Traning\Linq3\bin\Debug\Linq3.exe.config
+D:\VisualStudioProjects\Traning\Linq3\bin\Debug\Linq3.exe
+D:\VisualStudioProjects\Traning\Linq3\bin\Debug\Linq3.pdb
+D:\VisualStudioProjects\Traning\Linq3\obj\Debug\Linq3.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Traning\Linq3\obj\Debug\Linq3.exe
+D:\VisualStudioProjects\Traning\Linq3\obj\Debug\Linq3.pdb

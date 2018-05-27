@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Numbers\bin\Debug\_12.Master_Numbers.exe.config
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Numbers\bin\Debug\_12.Master_Numbers.exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Numbers\bin\Debug\_12.Master_Numbers.pdb
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Numbers\obj\Debug\_12.Master_Numbers.exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\12. Master Numbers\obj\Debug\_12.Master_Numbers.pdb

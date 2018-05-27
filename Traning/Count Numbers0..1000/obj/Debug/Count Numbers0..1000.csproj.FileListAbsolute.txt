@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Traning\Count Numbers0..1000\bin\Debug\Count_Numbers0._._1000.exe.config
+D:\VisualStudioProjects\Traning\Count Numbers0..1000\bin\Debug\Count_Numbers0._._1000.exe
+D:\VisualStudioProjects\Traning\Count Numbers0..1000\bin\Debug\Count_Numbers0._._1000.pdb
+D:\VisualStudioProjects\Traning\Count Numbers0..1000\obj\Debug\Count_Numbers0._._1000.exe
+D:\VisualStudioProjects\Traning\Count Numbers0..1000\obj\Debug\Count_Numbers0._._1000.pdb

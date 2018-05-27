@@ -1,0 +1,5 @@
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\04.Tourist Information\bin\Debug\04.Tourist Information.exe.config
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\04.Tourist Information\bin\Debug\04.Tourist Information.exe
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\04.Tourist Information\bin\Debug\04.Tourist Information.pdb
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\04.Tourist Information\obj\Debug\04.Tourist Information.exe
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\04.Tourist Information\obj\Debug\04.Tourist Information.pdb

@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\Traning\AnotherTraning\bin\Debug\AnotherTraning.exe.config
+D:\VisualStudioProjects\Traning\AnotherTraning\bin\Debug\AnotherTraning.exe
+D:\VisualStudioProjects\Traning\AnotherTraning\bin\Debug\AnotherTraning.pdb
+D:\VisualStudioProjects\Traning\AnotherTraning\obj\Debug\AnotherTraning.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Traning\AnotherTraning\obj\Debug\AnotherTraning.exe
+D:\VisualStudioProjects\Traning\AnotherTraning\obj\Debug\AnotherTraning.pdb

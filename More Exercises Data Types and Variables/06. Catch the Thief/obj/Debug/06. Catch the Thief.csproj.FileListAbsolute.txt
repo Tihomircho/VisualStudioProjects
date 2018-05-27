@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\More Exercises Data Types and Variables\06. Catch the Thief\obj\Debug\06. Catch the Thief.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\More Exercises Data Types and Variables\06. Catch the Thief\bin\Debug\_06.Catch_the_Thief.exe.config
+G:\VisualStudioProjects\More Exercises Data Types and Variables\06. Catch the Thief\bin\Debug\_06.Catch_the_Thief.exe
+G:\VisualStudioProjects\More Exercises Data Types and Variables\06. Catch the Thief\bin\Debug\_06.Catch_the_Thief.pdb
+G:\VisualStudioProjects\More Exercises Data Types and Variables\06. Catch the Thief\obj\Debug\_06.Catch_the_Thief.exe
+G:\VisualStudioProjects\More Exercises Data Types and Variables\06. Catch the Thief\obj\Debug\_06.Catch_the_Thief.pdb

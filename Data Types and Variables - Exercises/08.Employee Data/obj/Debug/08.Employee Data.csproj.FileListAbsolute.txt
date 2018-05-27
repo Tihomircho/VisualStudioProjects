@@ -1,0 +1,12 @@
+D:\VisualStudioProjects\Data Types and Variables - Exercises\08.Employee Data\bin\Debug\08.Employee Data.exe.config
+D:\VisualStudioProjects\Data Types and Variables - Exercises\08.Employee Data\bin\Debug\08.Employee Data.exe
+D:\VisualStudioProjects\Data Types and Variables - Exercises\08.Employee Data\bin\Debug\08.Employee Data.pdb
+D:\VisualStudioProjects\Data Types and Variables - Exercises\08.Employee Data\obj\Debug\08.Employee Data.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Data Types and Variables - Exercises\08.Employee Data\obj\Debug\08.Employee Data.exe
+D:\VisualStudioProjects\Data Types and Variables - Exercises\08.Employee Data\obj\Debug\08.Employee Data.pdb
+G:\VisualStudioProjects\Data Types and Variables - Exercises\08.Employee Data\bin\Debug\08.Employee Data.exe.config
+G:\VisualStudioProjects\Data Types and Variables - Exercises\08.Employee Data\bin\Debug\08.Employee Data.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\08.Employee Data\bin\Debug\08.Employee Data.pdb
+G:\VisualStudioProjects\Data Types and Variables - Exercises\08.Employee Data\obj\Debug\08.Employee Data.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\Data Types and Variables - Exercises\08.Employee Data\obj\Debug\08.Employee Data.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\08.Employee Data\obj\Debug\08.Employee Data.pdb

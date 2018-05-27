@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\06.Math Power\obj\Debug\06.Math Power.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\06.Math Power\bin\Debug\06.Math Power.exe.config
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\06.Math Power\bin\Debug\06.Math Power.exe
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\06.Math Power\bin\Debug\06.Math Power.pdb
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\06.Math Power\obj\Debug\06.Math Power.exe
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\06.Math Power\obj\Debug\06.Math Power.pdb

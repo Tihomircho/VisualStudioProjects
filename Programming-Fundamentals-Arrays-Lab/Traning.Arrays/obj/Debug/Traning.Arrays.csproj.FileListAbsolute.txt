@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\Programming-Fundamentals-Arrays-Lab\Traning.Arrays\bin\Debug\Traning.Arrays.exe.config
+G:\VisualStudioProjects\Programming-Fundamentals-Arrays-Lab\Traning.Arrays\bin\Debug\Traning.Arrays.exe
+G:\VisualStudioProjects\Programming-Fundamentals-Arrays-Lab\Traning.Arrays\bin\Debug\Traning.Arrays.pdb
+G:\VisualStudioProjects\Programming-Fundamentals-Arrays-Lab\Traning.Arrays\obj\Debug\Traning.Arrays.exe
+G:\VisualStudioProjects\Programming-Fundamentals-Arrays-Lab\Traning.Arrays\obj\Debug\Traning.Arrays.pdb
+G:\VisualStudioProjects\Programming-Fundamentals-Arrays-Lab\Traning.Arrays\obj\Debug\Traning.Arrays.csprojResolveAssemblyReference.cache

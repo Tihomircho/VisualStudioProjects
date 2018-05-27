@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\LISTS - EXERCISES\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.exe.config
+D:\VisualStudioProjects\LISTS - EXERCISES\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.exe
+D:\VisualStudioProjects\LISTS - EXERCISES\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.pdb
+D:\VisualStudioProjects\LISTS - EXERCISES\06. Sum Reversed Numbers\obj\Debug\_06.Sum_Reversed_Numbers.exe
+D:\VisualStudioProjects\LISTS - EXERCISES\06. Sum Reversed Numbers\obj\Debug\_06.Sum_Reversed_Numbers.pdb

@@ -1,0 +1,6 @@
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\02. Number Checker\bin\Debug\_02.Number_Checker.exe.config
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\02. Number Checker\bin\Debug\_02.Number_Checker.exe
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\02. Number Checker\bin\Debug\_02.Number_Checker.pdb
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\02. Number Checker\obj\Debug\02. Number Checker.csprojResolveAssemblyReference.cache
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\02. Number Checker\obj\Debug\_02.Number_Checker.exe
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\02. Number Checker\obj\Debug\_02.Number_Checker.pdb

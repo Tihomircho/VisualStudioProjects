@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\obj\Debug\Fakes\sn\b\System.Numerics.4.0.0.0.Fakes.xml
+D:\VisualStudioProjects\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\obj\Debug\Fakes\sn\b\System.Numerics.4.0.0.0.Fakes.dll
+D:\VisualStudioProjects\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\obj\Debug\Fakes\sn\b\System.Numerics.4.0.0.0.Fakes.pdb
+D:\VisualStudioProjects\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\obj\Debug\Fakes\sn\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\VisualStudioProjects\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\obj\Debug\Fakes\sn\o\f.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\obj\Debug\Fakes\sn\o\System.Numerics.4.0.0.0.Fakes.dll
+D:\VisualStudioProjects\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\obj\Debug\Fakes\sn\o\System.Numerics.4.0.0.0.Fakes.pdb

@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\1.CS intro Basic Syntax\1.Greeting\bin\Debug\1.Greeting.exe.config
+D:\VisualStudioProjects\1.CS intro Basic Syntax\1.Greeting\bin\Debug\1.Greeting.exe
+D:\VisualStudioProjects\1.CS intro Basic Syntax\1.Greeting\bin\Debug\1.Greeting.pdb
+D:\VisualStudioProjects\1.CS intro Basic Syntax\1.Greeting\obj\Debug\1.Greeting.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\1.CS intro Basic Syntax\1.Greeting\obj\Debug\1.Greeting.exe
+D:\VisualStudioProjects\1.CS intro Basic Syntax\1.Greeting\obj\Debug\1.Greeting.pdb

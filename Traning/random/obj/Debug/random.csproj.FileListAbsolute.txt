@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\Traning\random\bin\Debug\random.exe.config
+D:\VisualStudioProjects\Traning\random\bin\Debug\random.exe
+D:\VisualStudioProjects\Traning\random\bin\Debug\random.pdb
+D:\VisualStudioProjects\Traning\random\obj\Debug\random.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Traning\random\obj\Debug\random.exe
+D:\VisualStudioProjects\Traning\random\obj\Debug\random.pdb

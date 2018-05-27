@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\08.Multiply Evens by Odds\obj\Debug\08.Multiply Evens by Odds.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\08.Multiply Evens by Odds\bin\Debug\08.Multiply Evens by Odds.exe.config
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\08.Multiply Evens by Odds\bin\Debug\08.Multiply Evens by Odds.exe
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\08.Multiply Evens by Odds\bin\Debug\08.Multiply Evens by Odds.pdb
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\08.Multiply Evens by Odds\obj\Debug\08.Multiply Evens by Odds.exe
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\08.Multiply Evens by Odds\obj\Debug\08.Multiply Evens by Odds.pdb

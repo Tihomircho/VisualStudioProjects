@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Traning\newProgram\bin\Debug\newProgram.exe.config
+D:\VisualStudioProjects\Traning\newProgram\bin\Debug\newProgram.exe
+D:\VisualStudioProjects\Traning\newProgram\bin\Debug\newProgram.pdb
+D:\VisualStudioProjects\Traning\newProgram\obj\Debug\newProgram.exe
+D:\VisualStudioProjects\Traning\newProgram\obj\Debug\newProgram.pdb

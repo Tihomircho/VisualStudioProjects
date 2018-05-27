@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.exe.config
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.pdb
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\obj\Debug\_03.English_Name_of_Last_Digit.exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\obj\Debug\_03.English_Name_of_Last_Digit.pdb

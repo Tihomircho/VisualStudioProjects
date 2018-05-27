@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\Traning\bin\Debug\Traning.exe.config
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\Traning\bin\Debug\Traning.exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\Traning\bin\Debug\Traning.pdb
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\Traning\obj\Debug\Traning.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\Traning\obj\Debug\Traning.exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\Traning\obj\Debug\Traning.pdb

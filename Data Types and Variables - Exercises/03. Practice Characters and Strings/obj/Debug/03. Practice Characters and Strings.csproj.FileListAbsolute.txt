@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\Data Types and Variables - Exercises\03. Practice Characters and Strings\bin\Debug\_03.Practice_Characters_and_Strings.exe.config
+G:\VisualStudioProjects\Data Types and Variables - Exercises\03. Practice Characters and Strings\bin\Debug\_03.Practice_Characters_and_Strings.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\03. Practice Characters and Strings\bin\Debug\_03.Practice_Characters_and_Strings.pdb
+G:\VisualStudioProjects\Data Types and Variables - Exercises\03. Practice Characters and Strings\obj\Debug\03. Practice Characters and Strings.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\Data Types and Variables - Exercises\03. Practice Characters and Strings\obj\Debug\_03.Practice_Characters_and_Strings.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\03. Practice Characters and Strings\obj\Debug\_03.Practice_Characters_and_Strings.pdb

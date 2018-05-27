@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\LISTS - EXERCISES\04. Longest Increasing Subsequence (LIS)\bin\Debug\_04.Longest_Increasing_Subsequence__LIS_.exe.config
+D:\VisualStudioProjects\LISTS - EXERCISES\04. Longest Increasing Subsequence (LIS)\bin\Debug\_04.Longest_Increasing_Subsequence__LIS_.exe
+D:\VisualStudioProjects\LISTS - EXERCISES\04. Longest Increasing Subsequence (LIS)\bin\Debug\_04.Longest_Increasing_Subsequence__LIS_.pdb
+D:\VisualStudioProjects\LISTS - EXERCISES\04. Longest Increasing Subsequence (LIS)\obj\Debug\_04.Longest_Increasing_Subsequence__LIS_.exe
+D:\VisualStudioProjects\LISTS - EXERCISES\04. Longest Increasing Subsequence (LIS)\obj\Debug\_04.Longest_Increasing_Subsequence__LIS_.pdb

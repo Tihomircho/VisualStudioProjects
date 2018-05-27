@@ -1,0 +1,8 @@
+D:\VisualStudioProjects\Traning\FilesTwo\bin\Debug\FilesTwo.exe.config
+D:\VisualStudioProjects\Traning\FilesTwo\bin\Debug\FilesTwo.exe
+D:\VisualStudioProjects\Traning\FilesTwo\bin\Debug\FilesTwo.pdb
+D:\VisualStudioProjects\Traning\FilesTwo\obj\Debug\FilesTwo.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Traning\FilesTwo\obj\Debug\FilesTwo.exe
+D:\VisualStudioProjects\Traning\FilesTwo\obj\Debug\FilesTwo.pdb
+D:\VisualStudioProjects\Traning\FilesTwo\bin\Debug\File1.txt
+D:\VisualStudioProjects\Traning\FilesTwo\bin\Debug\Text2.txt

@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\2. Max Method\bin\Debug\_2.Max_Method.exe.config
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\2. Max Method\bin\Debug\_2.Max_Method.exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\2. Max Method\bin\Debug\_2.Max_Method.pdb
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\2. Max Method\obj\Debug\_2.Max_Method.exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\2. Max Method\obj\Debug\_2.Max_Method.pdb

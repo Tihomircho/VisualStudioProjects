@@ -1,0 +1,5 @@
+c:\users\тихомир\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\bin\Debug\01.Phonebook.exe.config
+c:\users\тихомир\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\bin\Debug\01.Phonebook.exe
+c:\users\тихомир\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\bin\Debug\01.Phonebook.pdb
+c:\users\тихомир\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\obj\Debug\01.Phonebook.exe
+c:\users\тихомир\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\obj\Debug\01.Phonebook.pdb

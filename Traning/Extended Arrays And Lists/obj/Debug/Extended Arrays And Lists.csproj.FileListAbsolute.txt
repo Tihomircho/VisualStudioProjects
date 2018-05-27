@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\Traning\Extended Arrays And Lists\bin\Debug\Extended Arrays And Lists.exe.config
+D:\VisualStudioProjects\Traning\Extended Arrays And Lists\bin\Debug\Extended Arrays And Lists.exe
+D:\VisualStudioProjects\Traning\Extended Arrays And Lists\bin\Debug\Extended Arrays And Lists.pdb
+D:\VisualStudioProjects\Traning\Extended Arrays And Lists\obj\Debug\Extended Arrays And Lists.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Traning\Extended Arrays And Lists\obj\Debug\Extended Arrays And Lists.exe
+D:\VisualStudioProjects\Traning\Extended Arrays And Lists\obj\Debug\Extended Arrays And Lists.pdb

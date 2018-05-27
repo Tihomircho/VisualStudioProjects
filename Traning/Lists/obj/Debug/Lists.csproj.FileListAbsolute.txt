@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Traning\Lists\bin\Debug\Lists.exe.config
+D:\VisualStudioProjects\Traning\Lists\bin\Debug\Lists.exe
+D:\VisualStudioProjects\Traning\Lists\bin\Debug\Lists.pdb
+D:\VisualStudioProjects\Traning\Lists\obj\Debug\Lists.exe
+D:\VisualStudioProjects\Traning\Lists\obj\Debug\Lists.pdb

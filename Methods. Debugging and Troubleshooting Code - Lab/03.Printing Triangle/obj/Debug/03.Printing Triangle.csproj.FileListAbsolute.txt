@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\03.Printing Triangle\bin\Debug\03.Printing Triangle.exe.config
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\03.Printing Triangle\bin\Debug\03.Printing Triangle.exe
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\03.Printing Triangle\bin\Debug\03.Printing Triangle.pdb
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\03.Printing Triangle\obj\Debug\03.Printing Triangle.exe
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\03.Printing Triangle\obj\Debug\03.Printing Triangle.pdb
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\03.Printing Triangle\obj\Debug\03.Printing Triangle.csprojResolveAssemblyReference.cache

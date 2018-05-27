@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\More Exercises Data Types and Variables\05.Weather Forecast\bin\Debug\05.Weather Forecast.exe.config
+G:\VisualStudioProjects\More Exercises Data Types and Variables\05.Weather Forecast\bin\Debug\05.Weather Forecast.exe
+G:\VisualStudioProjects\More Exercises Data Types and Variables\05.Weather Forecast\bin\Debug\05.Weather Forecast.pdb
+G:\VisualStudioProjects\More Exercises Data Types and Variables\05.Weather Forecast\obj\Debug\05.Weather Forecast.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\More Exercises Data Types and Variables\05.Weather Forecast\obj\Debug\05.Weather Forecast.exe
+G:\VisualStudioProjects\More Exercises Data Types and Variables\05.Weather Forecast\obj\Debug\05.Weather Forecast.pdb

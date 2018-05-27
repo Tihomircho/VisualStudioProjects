@@ -1,0 +1,5 @@
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\09.Holidays Between Two Dates\bin\Debug\09.Holidays Between Two Dates.exe.config
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\09.Holidays Between Two Dates\bin\Debug\09.Holidays Between Two Dates.exe
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\09.Holidays Between Two Dates\bin\Debug\09.Holidays Between Two Dates.pdb
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\09.Holidays Between Two Dates\obj\Debug\09.Holidays Between Two Dates.exe
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\09.Holidays Between Two Dates\obj\Debug\09.Holidays Between Two Dates.pdb

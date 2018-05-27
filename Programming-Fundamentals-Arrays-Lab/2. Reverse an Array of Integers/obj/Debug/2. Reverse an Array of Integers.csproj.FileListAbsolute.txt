@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\Programming-Fundamentals-Arrays-Lab\2. Reverse an Array of Integers\bin\Debug\_2.Reverse_an_Array_of_Integers.exe.config
+G:\VisualStudioProjects\Programming-Fundamentals-Arrays-Lab\2. Reverse an Array of Integers\bin\Debug\_2.Reverse_an_Array_of_Integers.exe
+G:\VisualStudioProjects\Programming-Fundamentals-Arrays-Lab\2. Reverse an Array of Integers\bin\Debug\_2.Reverse_an_Array_of_Integers.pdb
+G:\VisualStudioProjects\Programming-Fundamentals-Arrays-Lab\2. Reverse an Array of Integers\obj\Debug\_2.Reverse_an_Array_of_Integers.exe
+G:\VisualStudioProjects\Programming-Fundamentals-Arrays-Lab\2. Reverse an Array of Integers\obj\Debug\_2.Reverse_an_Array_of_Integers.pdb
+G:\VisualStudioProjects\Programming-Fundamentals-Arrays-Lab\2. Reverse an Array of Integers\obj\Debug\2. Reverse an Array of Integers.csprojResolveAssemblyReference.cache

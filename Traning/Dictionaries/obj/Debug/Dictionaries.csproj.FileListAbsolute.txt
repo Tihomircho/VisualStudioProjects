@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Traning\Dictionaries\bin\Debug\Dictionaries.exe.config
+D:\VisualStudioProjects\Traning\Dictionaries\bin\Debug\Dictionaries.exe
+D:\VisualStudioProjects\Traning\Dictionaries\bin\Debug\Dictionaries.pdb
+D:\VisualStudioProjects\Traning\Dictionaries\obj\Debug\Dictionaries.exe
+D:\VisualStudioProjects\Traning\Dictionaries\obj\Debug\Dictionaries.pdb

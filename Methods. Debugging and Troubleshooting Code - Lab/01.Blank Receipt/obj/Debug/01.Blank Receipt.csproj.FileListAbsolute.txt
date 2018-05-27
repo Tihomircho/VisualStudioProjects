@@ -1,0 +1,12 @@
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\01.Blank Receipt\bin\Debug\01.Blank Receipt.exe.config
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\01.Blank Receipt\bin\Debug\01.Blank Receipt.exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\01.Blank Receipt\bin\Debug\01.Blank Receipt.pdb
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\01.Blank Receipt\obj\Debug\01.Blank Receipt.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\01.Blank Receipt\obj\Debug\01.Blank Receipt.exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\01.Blank Receipt\obj\Debug\01.Blank Receipt.pdb
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\01.Blank Receipt\obj\Debug\01.Blank Receipt.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\01.Blank Receipt\obj\Debug\01.Blank Receipt.exe
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\01.Blank Receipt\obj\Debug\01.Blank Receipt.pdb
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\01.Blank Receipt\bin\Debug\01.Blank Receipt.exe.config
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\01.Blank Receipt\bin\Debug\01.Blank Receipt.exe
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\01.Blank Receipt\bin\Debug\01.Blank Receipt.pdb

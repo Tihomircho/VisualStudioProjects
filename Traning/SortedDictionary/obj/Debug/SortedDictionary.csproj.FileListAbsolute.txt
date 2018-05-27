@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\Traning\SortedDictionary\bin\Debug\SortedDictionary.exe.config
+D:\VisualStudioProjects\Traning\SortedDictionary\bin\Debug\SortedDictionary.exe
+D:\VisualStudioProjects\Traning\SortedDictionary\bin\Debug\SortedDictionary.pdb
+D:\VisualStudioProjects\Traning\SortedDictionary\obj\Debug\SortedDictionary.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Traning\SortedDictionary\obj\Debug\SortedDictionary.exe
+D:\VisualStudioProjects\Traning\SortedDictionary\obj\Debug\SortedDictionary.pdb

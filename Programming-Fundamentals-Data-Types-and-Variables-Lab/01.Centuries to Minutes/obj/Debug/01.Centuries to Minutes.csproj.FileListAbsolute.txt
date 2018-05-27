@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\01.Centuries to Minutes\bin\Debug\01.Centuries to Minutes.exe.config
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\01.Centuries to Minutes\bin\Debug\01.Centuries to Minutes.exe
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\01.Centuries to Minutes\bin\Debug\01.Centuries to Minutes.pdb
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\01.Centuries to Minutes\obj\Debug\01.Centuries to Minutes.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\01.Centuries to Minutes\obj\Debug\01.Centuries to Minutes.exe
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\01.Centuries to Minutes\obj\Debug\01.Centuries to Minutes.pdb

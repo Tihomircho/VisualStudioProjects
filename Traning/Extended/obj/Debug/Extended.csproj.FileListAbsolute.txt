@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\Traning\Extended\bin\Debug\Extended.exe.config
+D:\VisualStudioProjects\Traning\Extended\bin\Debug\Extended.exe
+D:\VisualStudioProjects\Traning\Extended\bin\Debug\Extended.pdb
+D:\VisualStudioProjects\Traning\Extended\obj\Debug\Extended.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Traning\Extended\obj\Debug\Extended.exe
+D:\VisualStudioProjects\Traning\Extended\obj\Debug\Extended.pdb

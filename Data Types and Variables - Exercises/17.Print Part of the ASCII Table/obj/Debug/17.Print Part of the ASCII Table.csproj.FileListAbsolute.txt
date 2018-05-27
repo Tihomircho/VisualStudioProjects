@@ -1,0 +1,5 @@
+G:\VisualStudioProjects\Data Types and Variables - Exercises\17.Print Part of the ASCII Table\bin\Debug\17.Print Part of the ASCII Table.exe.config
+G:\VisualStudioProjects\Data Types and Variables - Exercises\17.Print Part of the ASCII Table\bin\Debug\17.Print Part of the ASCII Table.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\17.Print Part of the ASCII Table\bin\Debug\17.Print Part of the ASCII Table.pdb
+G:\VisualStudioProjects\Data Types and Variables - Exercises\17.Print Part of the ASCII Table\obj\Debug\17.Print Part of the ASCII Table.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\17.Print Part of the ASCII Table\obj\Debug\17.Print Part of the ASCII Table.pdb

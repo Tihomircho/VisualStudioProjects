@@ -1,0 +1,5 @@
+G:\VisualStudioProjects\Data Types and Variables - Exercises\07.Exchange Variable Values\bin\Debug\07.Exchange Variable Values.exe.config
+G:\VisualStudioProjects\Data Types and Variables - Exercises\07.Exchange Variable Values\bin\Debug\07.Exchange Variable Values.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\07.Exchange Variable Values\bin\Debug\07.Exchange Variable Values.pdb
+G:\VisualStudioProjects\Data Types and Variables - Exercises\07.Exchange Variable Values\obj\Debug\07.Exchange Variable Values.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\07.Exchange Variable Values\obj\Debug\07.Exchange Variable Values.pdb

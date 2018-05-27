@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\10. Longer Line\bin\Debug\_10.Longer_Line.exe.config
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\10. Longer Line\bin\Debug\_10.Longer_Line.exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\10. Longer Line\bin\Debug\_10.Longer_Line.pdb
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\10. Longer Line\obj\Debug\10. Longer Line.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\10. Longer Line\obj\Debug\_10.Longer_Line.exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\10. Longer Line\obj\Debug\_10.Longer_Line.pdb

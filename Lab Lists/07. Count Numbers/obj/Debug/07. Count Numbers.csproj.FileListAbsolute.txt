@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Lab Lists\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe.config
+D:\VisualStudioProjects\Lab Lists\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe
+D:\VisualStudioProjects\Lab Lists\07. Count Numbers\bin\Debug\_07.Count_Numbers.pdb
+D:\VisualStudioProjects\Lab Lists\07. Count Numbers\obj\Debug\_07.Count_Numbers.exe
+D:\VisualStudioProjects\Lab Lists\07. Count Numbers\obj\Debug\_07.Count_Numbers.pdb

@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\Data Types and Variables - Exercises\10.Centuries to Nanoseconds\bin\Debug\10.Centuries to Nanoseconds.exe.config
+G:\VisualStudioProjects\Data Types and Variables - Exercises\10.Centuries to Nanoseconds\bin\Debug\10.Centuries to Nanoseconds.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\10.Centuries to Nanoseconds\bin\Debug\10.Centuries to Nanoseconds.pdb
+G:\VisualStudioProjects\Data Types and Variables - Exercises\10.Centuries to Nanoseconds\obj\Debug\10.Centuries to Nanoseconds.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\Data Types and Variables - Exercises\10.Centuries to Nanoseconds\obj\Debug\10.Centuries to Nanoseconds.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\10.Centuries to Nanoseconds\obj\Debug\10.Centuries to Nanoseconds.pdb

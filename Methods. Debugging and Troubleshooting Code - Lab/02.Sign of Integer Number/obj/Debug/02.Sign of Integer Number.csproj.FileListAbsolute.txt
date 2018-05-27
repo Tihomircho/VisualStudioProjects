@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\02.Sign of Integer Number\bin\Debug\02.Sign of Integer Number.exe.config
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\02.Sign of Integer Number\bin\Debug\02.Sign of Integer Number.exe
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\02.Sign of Integer Number\bin\Debug\02.Sign of Integer Number.pdb
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\02.Sign of Integer Number\obj\Debug\02.Sign of Integer Number.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\02.Sign of Integer Number\obj\Debug\02.Sign of Integer Number.exe
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\02.Sign of Integer Number\obj\Debug\02.Sign of Integer Number.pdb

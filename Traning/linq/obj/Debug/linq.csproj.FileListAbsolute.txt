@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Traning\linq\bin\Debug\linq.exe.config
+D:\VisualStudioProjects\Traning\linq\bin\Debug\linq.exe
+D:\VisualStudioProjects\Traning\linq\bin\Debug\linq.pdb
+D:\VisualStudioProjects\Traning\linq\obj\Debug\linq.exe
+D:\VisualStudioProjects\Traning\linq\obj\Debug\linq.pdb

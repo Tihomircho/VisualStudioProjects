@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\Data Types and Variables - Exercises\05.Boolean Variable\bin\Debug\05.Boolean Variable.exe.config
+G:\VisualStudioProjects\Data Types and Variables - Exercises\05.Boolean Variable\bin\Debug\05.Boolean Variable.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\05.Boolean Variable\bin\Debug\05.Boolean Variable.pdb
+G:\VisualStudioProjects\Data Types and Variables - Exercises\05.Boolean Variable\obj\Debug\05.Boolean Variable.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\Data Types and Variables - Exercises\05.Boolean Variable\obj\Debug\05.Boolean Variable.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\05.Boolean Variable\obj\Debug\05.Boolean Variable.pdb

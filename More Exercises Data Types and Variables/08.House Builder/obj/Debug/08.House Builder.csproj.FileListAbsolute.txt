@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\More Exercises Data Types and Variables\08.House Builder\bin\Debug\08.House Builder.exe.config
+G:\VisualStudioProjects\More Exercises Data Types and Variables\08.House Builder\bin\Debug\08.House Builder.exe
+G:\VisualStudioProjects\More Exercises Data Types and Variables\08.House Builder\bin\Debug\08.House Builder.pdb
+G:\VisualStudioProjects\More Exercises Data Types and Variables\08.House Builder\obj\Debug\08.House Builder.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\More Exercises Data Types and Variables\08.House Builder\obj\Debug\08.House Builder.exe
+G:\VisualStudioProjects\More Exercises Data Types and Variables\08.House Builder\obj\Debug\08.House Builder.pdb

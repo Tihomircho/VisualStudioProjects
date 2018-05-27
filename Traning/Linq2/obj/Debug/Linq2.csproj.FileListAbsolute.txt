@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Traning\Linq2\bin\Debug\Linq2.exe.config
+D:\VisualStudioProjects\Traning\Linq2\bin\Debug\Linq2.exe
+D:\VisualStudioProjects\Traning\Linq2\bin\Debug\Linq2.pdb
+D:\VisualStudioProjects\Traning\Linq2\obj\Debug\Linq2.exe
+D:\VisualStudioProjects\Traning\Linq2\obj\Debug\Linq2.pdb

@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Traning\Count Numbers0..1000Nakov\bin\Debug\Count_Numbers0._._1000Nakov.exe.config
+D:\VisualStudioProjects\Traning\Count Numbers0..1000Nakov\bin\Debug\Count_Numbers0._._1000Nakov.exe
+D:\VisualStudioProjects\Traning\Count Numbers0..1000Nakov\bin\Debug\Count_Numbers0._._1000Nakov.pdb
+D:\VisualStudioProjects\Traning\Count Numbers0..1000Nakov\obj\Debug\Count_Numbers0._._1000Nakov.exe
+D:\VisualStudioProjects\Traning\Count Numbers0..1000Nakov\obj\Debug\Count_Numbers0._._1000Nakov.pdb

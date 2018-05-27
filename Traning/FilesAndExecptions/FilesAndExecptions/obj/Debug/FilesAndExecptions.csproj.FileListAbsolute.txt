@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\Traning\FilesAndExecptions\FilesAndExecptions\bin\Debug\FilesAndExecptions.exe.config
+D:\VisualStudioProjects\Traning\FilesAndExecptions\FilesAndExecptions\bin\Debug\FilesAndExecptions.exe
+D:\VisualStudioProjects\Traning\FilesAndExecptions\FilesAndExecptions\bin\Debug\FilesAndExecptions.pdb
+D:\VisualStudioProjects\Traning\FilesAndExecptions\FilesAndExecptions\obj\Debug\FilesAndExecptions.exe
+D:\VisualStudioProjects\Traning\FilesAndExecptions\FilesAndExecptions\obj\Debug\FilesAndExecptions.pdb
+D:\VisualStudioProjects\Traning\FilesAndExecptions\FilesAndExecptions\obj\Debug\FilesAndExecptions.csprojResolveAssemblyReference.cache

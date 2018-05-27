@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\Traning\list traning2\bin\Debug\list traning2.exe.config
+D:\VisualStudioProjects\Traning\list traning2\bin\Debug\list traning2.exe
+D:\VisualStudioProjects\Traning\list traning2\bin\Debug\list traning2.pdb
+D:\VisualStudioProjects\Traning\list traning2\obj\Debug\list traning2.exe
+D:\VisualStudioProjects\Traning\list traning2\obj\Debug\list traning2.pdb
+D:\VisualStudioProjects\Traning\list traning2\obj\Debug\list traning2.csprojResolveAssemblyReference.cache

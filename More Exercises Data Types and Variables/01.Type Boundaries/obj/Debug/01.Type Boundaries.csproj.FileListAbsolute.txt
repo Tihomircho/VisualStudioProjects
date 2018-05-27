@@ -1,0 +1,6 @@
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\01.Type Boundaries\bin\Debug\01.Type Boundaries.exe.config
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\01.Type Boundaries\bin\Debug\01.Type Boundaries.exe
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\01.Type Boundaries\bin\Debug\01.Type Boundaries.pdb
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\01.Type Boundaries\obj\Debug\01.Type Boundaries.csprojResolveAssemblyReference.cache
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\01.Type Boundaries\obj\Debug\01.Type Boundaries.exe
+c:\users\tiho\documents\visual studio 2017\Projects\More Exercises Data Types and Variables\01.Type Boundaries\obj\Debug\01.Type Boundaries.pdb

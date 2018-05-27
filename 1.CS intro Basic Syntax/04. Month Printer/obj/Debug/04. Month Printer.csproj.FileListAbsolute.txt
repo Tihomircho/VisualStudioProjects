@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\1.CS intro Basic Syntax\04. Month Printer\bin\Debug\_04.Month_Printer.exe.config
+D:\VisualStudioProjects\1.CS intro Basic Syntax\04. Month Printer\bin\Debug\_04.Month_Printer.exe
+D:\VisualStudioProjects\1.CS intro Basic Syntax\04. Month Printer\bin\Debug\_04.Month_Printer.pdb
+D:\VisualStudioProjects\1.CS intro Basic Syntax\04. Month Printer\obj\Debug\04. Month Printer.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\1.CS intro Basic Syntax\04. Month Printer\obj\Debug\_04.Month_Printer.exe
+D:\VisualStudioProjects\1.CS intro Basic Syntax\04. Month Printer\obj\Debug\_04.Month_Printer.pdb

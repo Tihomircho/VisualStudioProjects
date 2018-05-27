@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Traning\files and directories\bin\Debug\files and directories.exe.config
+D:\VisualStudioProjects\Traning\files and directories\bin\Debug\files and directories.exe
+D:\VisualStudioProjects\Traning\files and directories\bin\Debug\files and directories.pdb
+D:\VisualStudioProjects\Traning\files and directories\obj\Debug\files and directories.exe
+D:\VisualStudioProjects\Traning\files and directories\obj\Debug\files and directories.pdb

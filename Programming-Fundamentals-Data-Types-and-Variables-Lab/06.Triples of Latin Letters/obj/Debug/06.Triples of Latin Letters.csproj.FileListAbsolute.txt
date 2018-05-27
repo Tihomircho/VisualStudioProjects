@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\06.Triples of Latin Letters\bin\Debug\06.Triples of Latin Letters.exe.config
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\06.Triples of Latin Letters\bin\Debug\06.Triples of Latin Letters.exe
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\06.Triples of Latin Letters\bin\Debug\06.Triples of Latin Letters.pdb
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\06.Triples of Latin Letters\obj\Debug\06.Triples of Latin Letters.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\06.Triples of Latin Letters\obj\Debug\06.Triples of Latin Letters.exe
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\06.Triples of Latin Letters\obj\Debug\06.Triples of Latin Letters.pdb

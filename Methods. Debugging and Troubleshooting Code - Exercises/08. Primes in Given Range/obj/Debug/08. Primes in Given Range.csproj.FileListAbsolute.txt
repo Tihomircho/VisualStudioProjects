@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\08. Primes in Given Range\obj\Debug\08. Primes in Given Range.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\08. Primes in Given Range\bin\Debug\_08.Primes_in_Given_Range.exe.config
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\08. Primes in Given Range\bin\Debug\_08.Primes_in_Given_Range.exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\08. Primes in Given Range\bin\Debug\_08.Primes_in_Given_Range.pdb
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\08. Primes in Given Range\obj\Debug\_08.Primes_in_Given_Range.exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\08. Primes in Given Range\obj\Debug\_08.Primes_in_Given_Range.pdb

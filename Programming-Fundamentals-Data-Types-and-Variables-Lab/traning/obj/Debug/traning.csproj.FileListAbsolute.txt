@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\traning\bin\Debug\traning.exe.config
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\traning\bin\Debug\traning.exe
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\traning\bin\Debug\traning.pdb
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\traning\obj\Debug\traning.exe
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\traning\obj\Debug\traning.pdb
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\traning\obj\Debug\traning.csprojResolveAssemblyReference.cache

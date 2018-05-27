@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\07.Greeting\bin\Debug\07.Greeting.exe.config
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\07.Greeting\bin\Debug\07.Greeting.exe
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\07.Greeting\bin\Debug\07.Greeting.pdb
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\07.Greeting\obj\Debug\07.Greeting.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\07.Greeting\obj\Debug\07.Greeting.exe
+G:\VisualStudioProjects\04. Programming-Fundamentals-Data-Types-and-Variables-Lab\07.Greeting\obj\Debug\07.Greeting.pdb

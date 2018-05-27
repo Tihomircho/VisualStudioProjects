@@ -1,0 +1,5 @@
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\05.Calculate Triangle Area\bin\Debug\05.Calculate Triangle Area.exe.config
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\05.Calculate Triangle Area\bin\Debug\05.Calculate Triangle Area.exe
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\05.Calculate Triangle Area\bin\Debug\05.Calculate Triangle Area.pdb
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\05.Calculate Triangle Area\obj\Debug\05.Calculate Triangle Area.exe
+G:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Lab\05.Calculate Triangle Area\obj\Debug\05.Calculate Triangle Area.pdb

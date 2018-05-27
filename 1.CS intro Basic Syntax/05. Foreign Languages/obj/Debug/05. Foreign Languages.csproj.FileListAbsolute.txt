@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\1.CS intro Basic Syntax\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.exe.config
+D:\VisualStudioProjects\1.CS intro Basic Syntax\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.exe
+D:\VisualStudioProjects\1.CS intro Basic Syntax\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.pdb
+D:\VisualStudioProjects\1.CS intro Basic Syntax\05. Foreign Languages\obj\Debug\_05.Foreign_Languages.exe
+D:\VisualStudioProjects\1.CS intro Basic Syntax\05. Foreign Languages\obj\Debug\_05.Foreign_Languages.pdb

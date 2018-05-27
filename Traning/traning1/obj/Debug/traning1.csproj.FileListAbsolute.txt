@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Traning\traning1\bin\Debug\traning1.exe.config
+D:\VisualStudioProjects\Traning\traning1\bin\Debug\traning1.exe
+D:\VisualStudioProjects\Traning\traning1\bin\Debug\traning1.pdb
+D:\VisualStudioProjects\Traning\traning1\obj\Debug\traning1.exe
+D:\VisualStudioProjects\Traning\traning1\obj\Debug\traning1.pdb

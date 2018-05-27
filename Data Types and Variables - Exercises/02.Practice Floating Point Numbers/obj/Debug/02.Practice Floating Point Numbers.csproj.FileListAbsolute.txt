@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Data Types and Variables - Exercises\02.Practice Floating Point Numbers\bin\Debug\02.Practice Floating Point Numbers.exe.config
+D:\VisualStudioProjects\Data Types and Variables - Exercises\02.Practice Floating Point Numbers\bin\Debug\02.Practice Floating Point Numbers.exe
+D:\VisualStudioProjects\Data Types and Variables - Exercises\02.Practice Floating Point Numbers\bin\Debug\02.Practice Floating Point Numbers.pdb
+D:\VisualStudioProjects\Data Types and Variables - Exercises\02.Practice Floating Point Numbers\obj\Debug\02.Practice Floating Point Numbers.exe
+D:\VisualStudioProjects\Data Types and Variables - Exercises\02.Practice Floating Point Numbers\obj\Debug\02.Practice Floating Point Numbers.pdb

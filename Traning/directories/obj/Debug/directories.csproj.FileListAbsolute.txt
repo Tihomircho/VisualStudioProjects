@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\Traning\directories\bin\Debug\directories.exe.config
+D:\VisualStudioProjects\Traning\directories\bin\Debug\directories.exe
+D:\VisualStudioProjects\Traning\directories\bin\Debug\directories.pdb
+D:\VisualStudioProjects\Traning\directories\obj\Debug\directories.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Traning\directories\obj\Debug\directories.exe
+D:\VisualStudioProjects\Traning\directories\obj\Debug\directories.pdb

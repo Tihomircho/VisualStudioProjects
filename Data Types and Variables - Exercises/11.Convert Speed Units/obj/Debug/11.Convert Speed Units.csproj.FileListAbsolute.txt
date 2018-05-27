@@ -1,0 +1,6 @@
+G:\VisualStudioProjects\Data Types and Variables - Exercises\11.Convert Speed Units\bin\Debug\11.Convert Speed Units.exe.config
+G:\VisualStudioProjects\Data Types and Variables - Exercises\11.Convert Speed Units\bin\Debug\11.Convert Speed Units.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\11.Convert Speed Units\bin\Debug\11.Convert Speed Units.pdb
+G:\VisualStudioProjects\Data Types and Variables - Exercises\11.Convert Speed Units\obj\Debug\11.Convert Speed Units.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\Data Types and Variables - Exercises\11.Convert Speed Units\obj\Debug\11.Convert Speed Units.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\11.Convert Speed Units\obj\Debug\11.Convert Speed Units.pdb

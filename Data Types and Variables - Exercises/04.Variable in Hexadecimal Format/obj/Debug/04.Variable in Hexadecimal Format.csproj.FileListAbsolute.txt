@@ -1,0 +1,5 @@
+G:\VisualStudioProjects\Data Types and Variables - Exercises\04.Variable in Hexadecimal Format\bin\Debug\04.Variable in Hexadecimal Format.exe.config
+G:\VisualStudioProjects\Data Types and Variables - Exercises\04.Variable in Hexadecimal Format\bin\Debug\04.Variable in Hexadecimal Format.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\04.Variable in Hexadecimal Format\bin\Debug\04.Variable in Hexadecimal Format.pdb
+G:\VisualStudioProjects\Data Types and Variables - Exercises\04.Variable in Hexadecimal Format\obj\Debug\04.Variable in Hexadecimal Format.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\04.Variable in Hexadecimal Format\obj\Debug\04.Variable in Hexadecimal Format.pdb

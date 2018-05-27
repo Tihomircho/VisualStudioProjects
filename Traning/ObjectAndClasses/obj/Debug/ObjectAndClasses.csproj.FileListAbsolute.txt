@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Traning\ObjectAndClasses\bin\Debug\ObjectAndClasses.exe.config
+D:\VisualStudioProjects\Traning\ObjectAndClasses\bin\Debug\ObjectAndClasses.exe
+D:\VisualStudioProjects\Traning\ObjectAndClasses\bin\Debug\ObjectAndClasses.pdb
+D:\VisualStudioProjects\Traning\ObjectAndClasses\obj\Debug\ObjectAndClasses.exe
+D:\VisualStudioProjects\Traning\ObjectAndClasses\obj\Debug\ObjectAndClasses.pdb

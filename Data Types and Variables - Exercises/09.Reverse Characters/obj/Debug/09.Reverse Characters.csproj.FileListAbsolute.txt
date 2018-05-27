@@ -1,0 +1,5 @@
+G:\VisualStudioProjects\Data Types and Variables - Exercises\09.Reverse Characters\bin\Debug\09.Reverse Characters.exe.config
+G:\VisualStudioProjects\Data Types and Variables - Exercises\09.Reverse Characters\bin\Debug\09.Reverse Characters.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\09.Reverse Characters\bin\Debug\09.Reverse Characters.pdb
+G:\VisualStudioProjects\Data Types and Variables - Exercises\09.Reverse Characters\obj\Debug\09.Reverse Characters.exe
+G:\VisualStudioProjects\Data Types and Variables - Exercises\09.Reverse Characters\obj\Debug\09.Reverse Characters.pdb

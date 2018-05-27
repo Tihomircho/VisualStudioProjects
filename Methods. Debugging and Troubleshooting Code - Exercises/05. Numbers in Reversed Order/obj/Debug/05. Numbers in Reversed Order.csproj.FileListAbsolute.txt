@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\05. Numbers in Reversed Order\obj\Debug\05. Numbers in Reversed Order.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\05. Numbers in Reversed Order\bin\Debug\_05.Numbers_in_Reversed_Order.exe.config
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\05. Numbers in Reversed Order\bin\Debug\_05.Numbers_in_Reversed_Order.exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\05. Numbers in Reversed Order\bin\Debug\_05.Numbers_in_Reversed_Order.pdb
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\05. Numbers in Reversed Order\obj\Debug\_05.Numbers_in_Reversed_Order.exe
+D:\VisualStudioProjects\Methods. Debugging and Troubleshooting Code - Exercises\05. Numbers in Reversed Order\obj\Debug\_05.Numbers_in_Reversed_Order.pdb

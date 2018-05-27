@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\Data Types and Variables - Exercises\01.Practice Integer Numbers\bin\Debug\01.Practice Integer Numbers.exe.config
+D:\VisualStudioProjects\Data Types and Variables - Exercises\01.Practice Integer Numbers\bin\Debug\01.Practice Integer Numbers.exe
+D:\VisualStudioProjects\Data Types and Variables - Exercises\01.Practice Integer Numbers\bin\Debug\01.Practice Integer Numbers.pdb
+D:\VisualStudioProjects\Data Types and Variables - Exercises\01.Practice Integer Numbers\obj\Debug\01.Practice Integer Numbers.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Data Types and Variables - Exercises\01.Practice Integer Numbers\obj\Debug\01.Practice Integer Numbers.exe
+D:\VisualStudioProjects\Data Types and Variables - Exercises\01.Practice Integer Numbers\obj\Debug\01.Practice Integer Numbers.pdb
