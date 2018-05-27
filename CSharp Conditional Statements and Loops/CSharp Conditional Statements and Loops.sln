@@ -1,25 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.6
+VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Choose a Drink", "01.Choose a Drink\01.Choose a Drink.csproj", "{6C704EF8-6511-4EE4-830E-64977E1CE8A5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Choose a Drink 2.0", "02. Choose a Drink 2.0\02. Choose a Drink 2.0.csproj", "{017E8A04-0017-4F06-9BB8-83A3E84C8996}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Restaurant Discount", "3. Restaurant Discount\3. Restaurant Discount.csproj", "{E44FFE04-928F-442F-B8F1-145FEA846DE0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Restaurant Discount", "3. Restaurant Discount\03. Restaurant Discount.csproj", "{E44FFE04-928F-442F-B8F1-145FEA846DE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Hotel", "4. Hotel\4. Hotel.csproj", "{F77489D2-F3E4-49DB-803B-5B5D92843ABB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Hotel", "4. Hotel\04. Hotel.csproj", "{F77489D2-F3E4-49DB-803B-5B5D92843ABB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Word in Plural", "5. Word in Plural\5. Word in Plural.csproj", "{5D60BEB7-70E0-42BD-BADE-A714552C22D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Word in Plural", "5. Word in Plural\05. Word in Plural.csproj", "{5D60BEB7-70E0-42BD-BADE-A714552C22D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Interval of Numbers", "6. Interval of Numbers\6. Interval of Numbers.csproj", "{597C7113-72AD-4706-84A5-8BDA2380C7FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Interval of Numbers", "6. Interval of Numbers\06. Interval of Numbers.csproj", "{597C7113-72AD-4706-84A5-8BDA2380C7FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Cake Ingredients", "7. Cake Ingredients\7. Cake Ingredients.csproj", "{21197193-9E55-45E4-8B7F-172DC79D2636}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Cake Ingredients", "7. Cake Ingredients\07. Cake Ingredients.csproj", "{21197193-9E55-45E4-8B7F-172DC79D2636}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Calories Counter", "8. Calories Counter\8. Calories Counter.csproj", "{A2667A92-4729-41F9-BD14-AEA83E0AC4EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Calories Counter", "8. Calories Counter\08. Calories Counter.csproj", "{A2667A92-4729-41F9-BD14-AEA83E0AC4EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Count the Integers", "9. Count the Integers\9. Count the Integers.csproj", "{BF0E655B-7AF4-4D00-88C1-59F2D03EACD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Count the Integers", "9. Count the Integers\09. Count the Integers.csproj", "{BF0E655B-7AF4-4D00-88C1-59F2D03EACD9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Triangle of Numbers", "10. Triangle of Numbers\10.Triangle of Numbers.csproj", "{A1669457-8FA4-44EE-A6EA-B47F6AA5B0F8}"
 EndProject
