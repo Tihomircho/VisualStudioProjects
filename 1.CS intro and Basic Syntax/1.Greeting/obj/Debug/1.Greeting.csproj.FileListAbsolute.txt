@@ -1,6 +1,0 @@
-G:\VisualStudioProjects\1.CS intro and Basic Syntax\1.Greeting\bin\Debug\1.Greeting.exe.config
-G:\VisualStudioProjects\1.CS intro and Basic Syntax\1.Greeting\bin\Debug\1.Greeting.exe
-G:\VisualStudioProjects\1.CS intro and Basic Syntax\1.Greeting\bin\Debug\1.Greeting.pdb
-G:\VisualStudioProjects\1.CS intro and Basic Syntax\1.Greeting\obj\Debug\1.Greeting.csprojResolveAssemblyReference.cache
-G:\VisualStudioProjects\1.CS intro and Basic Syntax\1.Greeting\obj\Debug\1.Greeting.exe
-G:\VisualStudioProjects\1.CS intro and Basic Syntax\1.Greeting\obj\Debug\1.Greeting.pdb
